@@ -1,1 +1,1 @@
-Hello, My name is Nattawatt Hongthong. A Student Developer from Thailand.
+Hello, My name is Nattawatt Hongthong.
