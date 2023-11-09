@@ -20,7 +20,7 @@ Languages
 - Twitter: [twitter.com/nattawatt17][2]
 
 <br>
-[![An image of @realnattawatthongthong's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/realnattawatthongthong)](https://holopin.io/@realnattawatthongthong)
+[![An image of @realnattawatthongthong's Holopin badges, which is a link to view their full Holopin profile (https://holopin.me/realnattawatthongthong)](https://holopin.io/@realnattawatthongthong)]
 <br>
 ## Archive projects<br>
 
