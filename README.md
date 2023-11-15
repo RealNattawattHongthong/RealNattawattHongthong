@@ -36,11 +36,13 @@ Languages
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/RealNattawattHongthong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RealNattawattHongthong&theme=github_dark" alt="RealNattawattHongthong's GitHub Stats" height="230"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RealNattawattHongthong&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+</a>
+</p>
 </a>
 
 <a href="https://github.com/RealNattawattHongthong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealNattawattHongthong&theme=github_dark" height="230"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RealNattawattHongthong&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 </a>
 
 <a href="https://github.com/RealNattawattHongthong">
