@@ -40,7 +40,7 @@ Languages
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RealNattawattHongthong&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 </a>
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RealNattawattHongthong)](https://git.io/streak-stats)
+[GitHub Streak](https://streak-stats.demolab.com/?user=RealNattawattHongthong)](https://git.io/streak-stats)
 
 [1]: https://nattawatt.com/
 [2]: https://twitter.com/intent/follow?screen_name=nattawatt17
