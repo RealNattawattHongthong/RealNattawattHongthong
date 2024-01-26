@@ -24,8 +24,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/realnattawatt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="realnattawatt" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realnattawatthongthong&show_icons=true&locale=en&layout=compact" alt="realnattawatthongthong" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=realnattawatthongthong&show_icons=true&locale=en" alt="realnattawatthongthong" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realnattawatthongthong&" alt="realnattawatthongthong" /></p>
+<a href="https://github.com/RealNattawattHongthong">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RealNattawattHongthong&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RealNattawattHongthong&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+</a>
+</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RealNattawattHongthong&theme=nord&hide_border=true" alt="GitHub Streak" /></a>
