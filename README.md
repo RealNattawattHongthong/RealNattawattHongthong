@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realnattawatthongthong&label=Profile%20views&color=0e75b6&style=flat" alt="realnattawatthongthong" /> </p>
 
+<p align="left"> <img src="https://user-badge.committers.top/thailand/RealNattawattHongthong.svg" alt="realnattawatthongthong" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realnattawatthongthong" alt="realnattawatthongthong" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/nattawatt17" target="blank"><img src="https://img.shields.io/twitter/follow/nattawatt17?logo=twitter&style=for-the-badge" alt="nattawatt17" /></a> </p>
