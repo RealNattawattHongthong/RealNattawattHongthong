@@ -37,7 +37,7 @@ jobs:
       - name: Commit Changes
         run: |
           git add TIMESTAMP.txt
-          git commit -m "Auto update ⏰" || echo "No changes to commit"
+          git commit -m "initial commit" || echo "yes"
 
       - name: Rebase & Push
         run: |
